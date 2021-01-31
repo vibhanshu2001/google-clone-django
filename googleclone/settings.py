@@ -26,7 +26,7 @@ SECRET_KEY = 'q62eci6-06h*gyy(z&_-f15#&ez9w!i#ndk9&qy4r04366ss_x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://google-clone-django.herokuapp.com']
 
 
 # Application definition
